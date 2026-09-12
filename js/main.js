@@ -1,0 +1,1 @@
+import {orbitalEnergy} from './quantum/hydrogenOrbitals.js'; console.log('Viewer loaded',orbitalEnergy(1));

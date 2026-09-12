@@ -1,0 +1,1 @@
+export const orbitalEnergy=n=>-13.6/(n*n);

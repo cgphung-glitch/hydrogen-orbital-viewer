@@ -1,0 +1,1 @@
+export const radialNodes=(n,l)=>n-l-1;
